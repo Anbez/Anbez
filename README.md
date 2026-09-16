@@ -13,6 +13,8 @@ Me chamo Ana Beatriz, tenho 24 anos e sou natural do Rio de Janeiro. Analista de
   </a>
 </div>
 
+---
+
 ###
 
 <h3 data-importer="text" align="left">🛠  Linguagens e Tecnologias</h3>
