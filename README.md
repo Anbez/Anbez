@@ -30,13 +30,3 @@ Me chamo Ana Beatriz, tenho 24 anos e sou natural do Rio de Janeiro. Analista de
 </div>
 
 ###
-
-<h3 data-importer="text" align="left">🔥   My Stats :</h3>
-
-###
-
-<div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=Anbez&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
